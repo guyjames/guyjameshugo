@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “When you walk with naked feet, how can you ever forget the Earth?”

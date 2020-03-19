@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
   - guyjames
 
 ---

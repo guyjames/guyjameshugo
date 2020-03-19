@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 ““When in doubt, tidy up.””

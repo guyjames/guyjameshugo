@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “Look. This little finger covers the eye and prevents the whole world from being seen. In the same way this small mind covers the whole universe and prevents Reality from being seen.”

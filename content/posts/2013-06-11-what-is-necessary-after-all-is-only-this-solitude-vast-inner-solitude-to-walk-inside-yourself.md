@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “What is necessary, after all, is only this: solitude, vast inner solitude. To walk inside yourself and meet no one for hours &#8211; that is what you must be able to attain.”

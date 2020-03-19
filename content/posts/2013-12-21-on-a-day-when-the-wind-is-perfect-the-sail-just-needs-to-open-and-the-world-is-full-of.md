@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “On a day when the wind is perfect,

@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 [barrylongbulletin][1]{.tumblr_blog}:

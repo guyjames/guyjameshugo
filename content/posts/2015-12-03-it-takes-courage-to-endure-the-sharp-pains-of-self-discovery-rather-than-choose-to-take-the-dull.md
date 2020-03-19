@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “It takes courage to endure the sharp pains of self discovery, rather than choose to take the dull pain of unconsciousness that would last the rest of our lives.”

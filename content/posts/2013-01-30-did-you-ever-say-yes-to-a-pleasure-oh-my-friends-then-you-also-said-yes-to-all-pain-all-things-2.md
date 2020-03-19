@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 ““Did you ever say yes to a pleasure? Oh my friends, then you also said yes to all pain. All things are linked, entwined, in love with one another.””

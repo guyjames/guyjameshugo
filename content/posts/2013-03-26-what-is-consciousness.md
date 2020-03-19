@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 We ask &#8216;what is consciousness?&#8217;&#8230; better to ask, &#8216;what is _not_ consciousness?&#8217;

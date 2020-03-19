@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “You can run from your demons until you are exhausted… one day you will have to stop and find out what they wanted.”

@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “There are times when it will go so wrong that you will barely be alive, and times when you realise that being barely alive, on your own terms, is better than living a bloated half-life on someone else’s terms.”

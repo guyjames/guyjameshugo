@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes ifttt'
-  - '#tumblr'
+  - 'tumblr'
   - quotes
 
 ---

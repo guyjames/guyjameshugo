@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “A single event can awaken within us a stranger totally unknown to us. To live is to be slowly born.”

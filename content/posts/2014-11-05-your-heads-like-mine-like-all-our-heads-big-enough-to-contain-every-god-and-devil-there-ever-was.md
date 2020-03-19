@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 ““Your head’s like mine, like all our heads; big enough to contain every god and devil there ever was. Big enough to hold the weight of oceans and the turning stars. Whole universes fit in there! But what do we choose to keep in this miraculous cabinet? Little broken things, sad trinkets that we play with over and over. The world turns our key and we play the same little tune again and again and we think that tune’s all we are.””

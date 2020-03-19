@@ -8,7 +8,7 @@ categories:
   - Asides
 tags:
   - 'ifttt'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 Unfortunately it appears Orwell&#8217;s Nineteen Eighty-Four and Huxley&#8217;s Brave New World were BOTH right! 

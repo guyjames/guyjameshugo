@@ -11,7 +11,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes FB'
-  - '#tumblr'
+  - 'tumblr'
   - quotes
 
 ---

@@ -9,7 +9,7 @@ categories:
 tags:
   - 'ifttt'
   - 'quotes quotes'
-  - '#tumblr'
+  - 'tumblr'
 
 ---
 “When we see the world through our thoughts, we stop experiencing life as it really is and others as they really are. When I have a thought about you, that’s something I’ve created. I’ve turned you into an idea. In a certain sense, if I have an idea about you that I believe, I’ve degraded you. I’ve made you into something very small. This is the way of human beings, this is what we do to each other.”
