@@ -10,7 +10,7 @@ categories:
   - quotes
 tags:
   - '#ifttt'
-  - '#quotes FB'
+  - 'quotes FB'
   - '#tumblr'
   - quotes
 

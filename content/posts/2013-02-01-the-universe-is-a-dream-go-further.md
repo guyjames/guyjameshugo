@@ -8,7 +8,7 @@ categories:
   - quotes
 tags:
   - '#ifttt'
-  - '#quotes quotes'
+  - 'quotes quotes'
   - '#tumblr'
   - fb
 
