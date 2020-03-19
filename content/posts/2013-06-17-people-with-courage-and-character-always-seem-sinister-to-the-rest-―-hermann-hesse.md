@@ -7,7 +7,7 @@ url: /2013/06/17/people-with-courage-and-character-always-seem-sinister-to-the-r
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

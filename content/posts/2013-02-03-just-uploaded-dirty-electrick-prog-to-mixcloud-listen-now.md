@@ -7,7 +7,7 @@ url: /2013/02/03/just-uploaded-dirty-electrick-prog-to-mixcloud-listen-now/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - mixcloud

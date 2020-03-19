@@ -7,7 +7,7 @@ url: /2015/06/08/a-single-event-can-awaken-within-us-a-stranger-totally-unknown-
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

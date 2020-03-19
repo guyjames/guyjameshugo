@@ -7,7 +7,7 @@ url: /2015/10/03/i-discovered-that-when-i-believed-my-thoughts-i-suffered-but-th
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

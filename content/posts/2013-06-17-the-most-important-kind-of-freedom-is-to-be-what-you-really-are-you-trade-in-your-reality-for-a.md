@@ -7,7 +7,7 @@ url: /2013/06/17/the-most-important-kind-of-freedom-is-to-be-what-you-really-are
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

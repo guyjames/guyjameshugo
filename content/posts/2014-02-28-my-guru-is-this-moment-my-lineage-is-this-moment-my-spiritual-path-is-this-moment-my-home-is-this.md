@@ -7,7 +7,7 @@ url: /2014/02/28/my-guru-is-this-moment-my-lineage-is-this-moment-my-spiritual-p
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

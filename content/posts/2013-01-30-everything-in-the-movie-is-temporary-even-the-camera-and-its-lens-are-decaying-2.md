@@ -7,7 +7,7 @@ url: /2013/01/30/everything-in-the-movie-is-temporary-even-the-camera-and-its-le
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

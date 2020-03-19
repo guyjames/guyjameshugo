@@ -7,7 +7,7 @@ url: /2015/12/03/it-takes-courage-to-endure-the-sharp-pains-of-self-discovery-ra
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

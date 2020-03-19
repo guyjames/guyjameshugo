@@ -7,7 +7,7 @@ url: /2015/05/15/the-raptcha/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - religion

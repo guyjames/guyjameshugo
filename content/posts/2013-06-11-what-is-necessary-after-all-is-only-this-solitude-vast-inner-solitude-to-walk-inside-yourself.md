@@ -7,7 +7,7 @@ url: /2013/06/11/what-is-necessary-after-all-is-only-this-solitude-vast-inner-so
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

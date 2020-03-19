@@ -7,7 +7,7 @@ url: /2013/02/01/david-cameron-is-a-stable-boy-for-the-four-horsemen-of-the-apoc
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

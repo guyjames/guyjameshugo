@@ -7,7 +7,7 @@ url: /2015/11/30/insanity-is-the-new-sanity/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - syria stoptrident nato whyarewestillsellingweaponstosaudiarabia warispeace freedomisslavery freesnowdenmanningassange
 

@@ -7,7 +7,7 @@ url: /2013/07/21/i-am-the-unknowingness-of-an-unknown-mystery-if-you-want-to-kno
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

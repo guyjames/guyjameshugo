@@ -7,7 +7,7 @@ url: /2013/03/26/what-is-consciousness/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

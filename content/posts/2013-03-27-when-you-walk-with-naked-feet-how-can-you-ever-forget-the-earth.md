@@ -7,7 +7,7 @@ url: /2013/03/27/when-you-walk-with-naked-feet-how-can-you-ever-forget-the-earth
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

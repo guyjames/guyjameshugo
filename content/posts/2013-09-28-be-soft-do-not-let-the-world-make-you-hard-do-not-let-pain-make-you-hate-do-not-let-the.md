@@ -7,7 +7,7 @@ url: /2013/09/28/be-soft-do-not-let-the-world-make-you-hard-do-not-let-pain-make
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes ifttt'
   - '#tumblr'
   - quotes

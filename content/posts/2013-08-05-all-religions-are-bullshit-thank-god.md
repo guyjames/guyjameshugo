@@ -7,7 +7,7 @@ url: /2013/08/05/all-religions-are-bullshit-thank-god/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

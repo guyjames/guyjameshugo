@@ -7,7 +7,7 @@ url: /2013/02/03/if-we-can-learn-anything-from-the-20th-century-surely-it-is-the
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

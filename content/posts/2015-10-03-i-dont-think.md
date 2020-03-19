@@ -7,7 +7,7 @@ url: /2015/10/03/i-dont-think/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

@@ -7,7 +7,7 @@ url: /2014/11/05/your-heads-like-mine-like-all-our-heads-big-enough-to-contain-e
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

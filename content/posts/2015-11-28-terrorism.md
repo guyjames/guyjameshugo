@@ -7,7 +7,7 @@ url: /2015/11/28/terrorism/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

@@ -7,7 +7,7 @@ url: /2013/04/01/now-that-my-house-has-burned-down-i-have-a-better-view-of-the-s
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

@@ -7,7 +7,7 @@ url: /2013/09/07/stop-acting-so-small-you-are-the-universe-in-ecstatic-motion-op
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

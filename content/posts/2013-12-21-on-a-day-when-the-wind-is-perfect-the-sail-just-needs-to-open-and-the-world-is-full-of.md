@@ -7,7 +7,7 @@ url: /2013/12/21/on-a-day-when-the-wind-is-perfect-the-sail-just-needs-to-open-a
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

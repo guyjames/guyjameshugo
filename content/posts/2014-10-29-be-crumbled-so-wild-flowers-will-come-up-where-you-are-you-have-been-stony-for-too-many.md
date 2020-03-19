@@ -7,7 +7,7 @@ url: /2014/10/29/be-crumbled-so-wild-flowers-will-come-up-where-you-are-you-have
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

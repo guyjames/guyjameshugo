@@ -7,7 +7,7 @@ url: /2015/01/14/carrot-and-stick/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

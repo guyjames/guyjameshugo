@@ -7,7 +7,7 @@ url: /2013/01/31/that-which-you-do-not-make-conscious-becomes-fate/
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

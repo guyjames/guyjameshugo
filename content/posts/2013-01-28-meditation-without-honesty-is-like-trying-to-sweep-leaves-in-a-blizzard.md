@@ -7,7 +7,7 @@ url: /2013/01/28/meditation-without-honesty-is-like-trying-to-sweep-leaves-in-a-
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

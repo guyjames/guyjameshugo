@@ -7,7 +7,7 @@ url: /2013/02/01/the-universe-is-a-dream-go-further-2/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - quotes

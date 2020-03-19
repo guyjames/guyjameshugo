@@ -7,7 +7,7 @@ url: /2013/01/31/i-listened-to-people-talk-about-improving-myself-and-i-had-the-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

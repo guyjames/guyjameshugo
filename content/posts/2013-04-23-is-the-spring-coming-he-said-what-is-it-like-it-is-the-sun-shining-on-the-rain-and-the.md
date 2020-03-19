@@ -7,7 +7,7 @@ url: /2013/04/23/is-the-spring-coming-he-said-what-is-it-like-it-is-the-sun-shin
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

@@ -7,7 +7,7 @@ url: /2013/02/27/time-is-only-found-in-thoughts-no-thoughts-no-time/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

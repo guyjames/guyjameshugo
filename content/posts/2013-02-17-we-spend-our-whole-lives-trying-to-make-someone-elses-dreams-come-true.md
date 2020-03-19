@@ -7,7 +7,7 @@ url: /2013/02/17/we-spend-our-whole-lives-trying-to-make-someone-elses-dreams-co
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

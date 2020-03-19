@@ -9,7 +9,7 @@ pdrp_attributionLocation:
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

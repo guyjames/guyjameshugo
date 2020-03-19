@@ -7,7 +7,7 @@ url: /2014/06/26/you-can-run-from-your-demons-until-you-are-exhausted-one-day-yo
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

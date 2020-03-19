@@ -7,7 +7,7 @@ url: /2013/04/26/if-you-limit-your-choices-only-to-what-seems-possible-or-reason
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

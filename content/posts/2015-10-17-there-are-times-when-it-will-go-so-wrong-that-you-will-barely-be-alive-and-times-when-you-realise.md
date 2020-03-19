@@ -7,7 +7,7 @@ url: /2015/10/17/there-are-times-when-it-will-go-so-wrong-that-you-will-barely-b
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

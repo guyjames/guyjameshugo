@@ -7,7 +7,7 @@ url: /2013/09/26/look-this-little-finger-covers-the-eye-and-prevents-the-whole-w
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

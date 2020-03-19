@@ -7,7 +7,7 @@ url: /2013/01/28/our-oppression-is-directly-proportional-to-our-apathy-after-rea
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

@@ -7,7 +7,7 @@ url: /2013/01/30/did-you-ever-say-yes-to-a-pleasure-oh-my-friends-then-you-also-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

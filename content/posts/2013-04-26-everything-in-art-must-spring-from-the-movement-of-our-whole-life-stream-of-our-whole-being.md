@@ -7,7 +7,7 @@ url: /2013/04/26/everything-in-art-must-spring-from-the-movement-of-our-whole-li
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

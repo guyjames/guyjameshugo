@@ -7,7 +7,7 @@ url: /2013/02/10/everyone-in-the-dream-is-you/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

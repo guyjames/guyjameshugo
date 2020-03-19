@@ -7,7 +7,7 @@ url: /2015/10/17/once-we-stop-buying-a-thought-any-thought-we-rob-it-of-its-pote
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - guyjames
 

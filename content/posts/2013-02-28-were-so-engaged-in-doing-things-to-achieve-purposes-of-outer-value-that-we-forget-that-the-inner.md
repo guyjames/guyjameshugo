@@ -7,7 +7,7 @@ url: /2013/02/28/were-so-engaged-in-doing-things-to-achieve-purposes-of-outer-va
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

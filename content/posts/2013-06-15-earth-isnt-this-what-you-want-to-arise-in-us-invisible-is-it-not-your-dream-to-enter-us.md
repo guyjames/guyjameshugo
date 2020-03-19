@@ -7,7 +7,7 @@ url: /2013/06/15/earth-isnt-this-what-you-want-to-arise-in-us-invisible-is-it-no
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - poetry

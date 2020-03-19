@@ -7,7 +7,7 @@ url: /2013/06/28/she-never-looked-nice-she-looked-like-art-and-art-wasnt-suppose
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

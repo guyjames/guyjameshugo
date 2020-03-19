@@ -7,7 +7,7 @@ url: /2013/02/05/tears-make-the-eyes-brighter/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

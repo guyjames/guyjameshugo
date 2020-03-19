@@ -7,7 +7,7 @@ url: /2015/11/28/if-you-prefer-smoke-over-fire-then-get-up-now-and-leave-for-i-d
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
 
 ---

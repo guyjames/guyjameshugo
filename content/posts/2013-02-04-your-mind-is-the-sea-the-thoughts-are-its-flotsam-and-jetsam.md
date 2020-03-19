@@ -7,7 +7,7 @@ url: /2013/02/04/your-mind-is-the-sea-the-thoughts-are-its-flotsam-and-jetsam/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

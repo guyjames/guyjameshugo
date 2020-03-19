@@ -7,7 +7,7 @@ url: /2013/06/29/never-love-anybody-who-treats-you-like-youre-ordinary/
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

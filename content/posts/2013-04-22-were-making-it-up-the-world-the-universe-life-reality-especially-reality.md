@@ -7,7 +7,7 @@ url: /2013/04/22/were-making-it-up-the-world-the-universe-life-reality-especiall
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

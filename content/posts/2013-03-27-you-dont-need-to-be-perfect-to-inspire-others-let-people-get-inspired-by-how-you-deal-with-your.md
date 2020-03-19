@@ -7,7 +7,7 @@ url: /2013/03/27/you-dont-need-to-be-perfect-to-inspire-others-let-people-get-in
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - quotes

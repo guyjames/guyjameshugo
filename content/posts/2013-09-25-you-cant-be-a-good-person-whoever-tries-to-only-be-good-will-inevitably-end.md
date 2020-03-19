@@ -7,7 +7,7 @@ url: /2013/09/25/you-cant-be-a-good-person-whoever-tries-to-only-be-good-will-in
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

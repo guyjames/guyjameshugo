@@ -7,7 +7,7 @@ url: /2015/11/28/a-national-flag-is-just-a-placeholder-for-the-empty-space-where
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - guyjames

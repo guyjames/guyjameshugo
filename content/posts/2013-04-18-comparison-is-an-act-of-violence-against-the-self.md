@@ -7,7 +7,7 @@ url: /2013/04/18/comparison-is-an-act-of-violence-against-the-self/
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

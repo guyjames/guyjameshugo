@@ -7,7 +7,7 @@ url: /2013/09/08/birds-born-in-a-cage-think-flying-is-an-illness/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

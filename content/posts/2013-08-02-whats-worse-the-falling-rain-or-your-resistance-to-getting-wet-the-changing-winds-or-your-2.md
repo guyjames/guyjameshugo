@@ -7,7 +7,7 @@ url: /2013/08/02/whats-worse-the-falling-rain-or-your-resistance-to-getting-wet-
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - quotes
 

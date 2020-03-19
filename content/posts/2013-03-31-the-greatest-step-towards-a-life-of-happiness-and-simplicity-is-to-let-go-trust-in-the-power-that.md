@@ -7,7 +7,7 @@ url: /2013/03/31/the-greatest-step-towards-a-life-of-happiness-and-simplicity-is
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

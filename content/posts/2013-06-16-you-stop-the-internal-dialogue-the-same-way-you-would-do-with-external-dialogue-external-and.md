@@ -7,7 +7,7 @@ url: /2013/06/16/you-stop-the-internal-dialogue-the-same-way-you-would-do-with-e
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

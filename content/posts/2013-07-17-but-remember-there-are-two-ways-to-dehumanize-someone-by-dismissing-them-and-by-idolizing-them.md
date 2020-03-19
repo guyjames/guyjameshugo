@@ -7,7 +7,7 @@ url: /2013/07/17/but-remember-there-are-two-ways-to-dehumanize-someone-by-dismis
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

@@ -7,7 +7,7 @@ url: /2014/08/24/the-first-requirement-of-any-revolution-is-that-you-dont-have-t
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

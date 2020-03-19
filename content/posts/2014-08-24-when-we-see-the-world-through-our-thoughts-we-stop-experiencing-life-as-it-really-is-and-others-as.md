@@ -7,7 +7,7 @@ url: /2014/08/24/when-we-see-the-world-through-our-thoughts-we-stop-experiencing
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

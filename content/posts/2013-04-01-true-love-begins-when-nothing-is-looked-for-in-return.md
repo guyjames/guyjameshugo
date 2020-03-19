@@ -7,7 +7,7 @@ url: /2013/04/01/true-love-begins-when-nothing-is-looked-for-in-return/
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

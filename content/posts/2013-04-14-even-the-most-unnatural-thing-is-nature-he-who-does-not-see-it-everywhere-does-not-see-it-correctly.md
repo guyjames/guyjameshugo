@@ -7,7 +7,7 @@ url: /2013/04/14/even-the-most-unnatural-thing-is-nature-he-who-does-not-see-it-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

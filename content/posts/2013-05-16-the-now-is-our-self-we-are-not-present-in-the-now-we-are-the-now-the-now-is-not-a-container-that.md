@@ -7,7 +7,7 @@ url: /2013/05/16/the-now-is-our-self-we-are-not-present-in-the-now-we-are-the-no
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

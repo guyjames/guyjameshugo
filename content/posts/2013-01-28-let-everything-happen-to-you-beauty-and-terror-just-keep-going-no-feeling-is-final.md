@@ -7,7 +7,7 @@ url: /2013/01/28/let-everything-happen-to-you-beauty-and-terror-just-keep-going-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

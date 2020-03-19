@@ -7,7 +7,7 @@ url: /2013/07/09/people-will-kill-you-over-time-and-how-theyll-kill-you-is-with-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes FB'
   - '#tumblr'
   - quotes

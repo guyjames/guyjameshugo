@@ -7,7 +7,7 @@ url: /2013/12/02/we-need-an-effort-as-concerted-to-heal-the-planet-as-we-have-ma
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

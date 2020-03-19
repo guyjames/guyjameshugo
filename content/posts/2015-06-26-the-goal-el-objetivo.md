@@ -7,7 +7,7 @@ url: /2015/06/26/the-goal-el-objetivo/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

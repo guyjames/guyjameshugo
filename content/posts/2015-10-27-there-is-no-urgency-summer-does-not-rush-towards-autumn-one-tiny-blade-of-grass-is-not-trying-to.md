@@ -7,7 +7,7 @@ url: /2015/10/27/there-is-no-urgency-summer-does-not-rush-towards-autumn-one-tin
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
 

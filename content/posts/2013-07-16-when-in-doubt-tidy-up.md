@@ -7,7 +7,7 @@ url: /2013/07/16/when-in-doubt-tidy-up/
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
 

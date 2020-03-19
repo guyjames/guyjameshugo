@@ -7,7 +7,7 @@ url: /2013/02/24/dont-seek-dont-search-dont-ask-dont-knock-dont-demand-relax-if-
 categories:
   - quotes
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - 'quotes quotes'
   - '#tumblr'
   - fb

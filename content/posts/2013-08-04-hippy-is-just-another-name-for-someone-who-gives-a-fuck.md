@@ -7,7 +7,7 @@ url: /2013/08/04/hippy-is-just-another-name-for-someone-who-gives-a-fuck/
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - hippie
 

@@ -7,7 +7,7 @@ url: /2013/03/26/who-sees-all-beings-in-his-own-self-and-his-own-self-in-all-bei
 categories:
   - Asides
 tags:
-  - '#ifttt'
+  - 'ifttt'
   - '#tumblr'
   - fb
   - quotes
