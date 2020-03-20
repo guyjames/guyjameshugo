@@ -52,4 +52,4 @@ It does certainly appear that a person is born with a kind of &#8216;blueprint&#
 
 All that may be irrelevant to someone healing or caring for someone else who is healing but in my case I saw that it was in fact the reason I got ill in the first place &#8211; to show me that the way I was living and relating to experience was &#8216;wrong&#8217;, or maybe better to say &#8216;optional&#8217;. 😉
 
- [1]: http://guyjames.test/eczema-as-koan-part-1/
+[1]: {{< ref "2014-08-12-eczema-as-koan-part-1.md" >}}

@@ -27,7 +27,7 @@ tags:
   - theory u
 
 ---
-[<img class="aligncenter wp-image-3469 size-large" src="/wp-content/uploads/2016/10/here_be_dragons-1024x614.jpg" alt="Here Be Dragons!" width="1024" height="614" srcset="/wp-content/uploads/2016/10/here_be_dragons-1024x614.jpg 1024w, /wp-content/uploads/2016/10/here_be_dragons-300x180.jpg 300w, /wp-content/uploads/2016/10/here_be_dragons-768x461.jpg 768w, /wp-content/uploads/2016/10/here_be_dragons.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+{{< figure src="https://2018.guyjames.com/wp-content/uploads/2016/10/here_be_dragons-1024x614.jpg" alt="Here Be Dragons" width="1024" height="614" >}}
 
 ## Manifesto For A New Adventure {#manifesto-on-reclaiming-our-power}
 
