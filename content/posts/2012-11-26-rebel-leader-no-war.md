@@ -19,4 +19,4 @@ A tune from back in the day by my electronica offshoot, Rebel Leader.
   
 Vocals done in an altered state of consciousness, under a duvet.
 
-[soundcloud]http://soundcloud.com/guy_james/rebel-leader-no-wars[/soundcloud]
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/68888188&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
