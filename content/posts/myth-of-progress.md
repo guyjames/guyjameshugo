@@ -1,16 +1,9 @@
 ---
-title: 'The Myth of Progress and the Fear of Death'
+title: "The Myth of Progress and the Fear of Death"
+date: 2020-03-20T18:53:10+01:00
 author: Guy
 type: post
-date: 2020-03-20T18:44:27+00:00
-categories:
-  - thoughts
-tags:
-  - progress
-  - death
-  - myths
-  - love
-
+draft: false
 ---
 #  The Myth of Progress and the Fear of Death
 

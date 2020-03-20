@@ -8,7 +8,7 @@ theme = "indigo"
 [params]
   Author = "Guy James"
   Description = "Idle speculations you are doing well to ignore."
-  Subtitle = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music"
+  Subtitle = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music."
   Avatar = "images/site-logo.svg"
   Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
   ShowBio = true
