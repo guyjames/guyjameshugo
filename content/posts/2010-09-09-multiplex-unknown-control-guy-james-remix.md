@@ -12,6 +12,6 @@ categories:
   - My Music
 
 ---
-[soundcloud]http://soundcloud.com/guy_james/multiplex-unknown-control-guy-james-remix[/soundcloud] 
-
 A remix I did of a track by the band Multiplex. It was released in Canada only by Piehead records.
+
+[On SoundCloud](http://soundcloud.com/guy_james/multiplex-unknown-control-guy-james-remix)

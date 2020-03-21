@@ -25,10 +25,10 @@ tags:
 ---
 Last night I had the realisation, but to be honest it felt like a revelation, (and like all good revelations I can&#8217;t now understand why it wasn&#8217;t already obvious to me), that a great deal of the conflict in the world is caused by clashes between different groups trying to promote their own version of &#8216;utopia&#8217;. I had vaguely intimated this on being sent an article on <a href="http://en.wikipedia.org/wiki/John_N._Gray" target="_blank" rel="noopener">John Gray</a>, a distinctly anti-utopian philosopher, by my friend <a href="http://idea.tion.to" target="_blank" rel="noopener">Nils Borg</a>.
 
-Now it seems clear to me that every &#8216;ism&#8217; is inherently the result of a delusion, except perhaps, as Gray sometimes points out, &#8216;realism&#8217;.  <span class="pullquote">The basic structure of any &#8216;ism&#8217; is the assumption that a &#8216;perfect world&#8217; or utopia is possible in an imagined future</span> and we must make changes, sacrifices, and generally work toward this vision of perfection where everyone is happy, or equal, or whatever idea or collection of ideas is deemed to be the most important and the most lacking in the present moment.<!--more-->
+Now it seems clear to me that every &#8216;ism&#8217; is inherently the result of a delusion, except perhaps, as Gray sometimes points out, &#8216;realism&#8217;.  
 
+> The basic structure of any &#8216;ism&#8217; is the assumption that a &#8216;perfect world&#8217; or utopia is possible in an imagined future and we must make changes, sacrifices, and generally work toward this vision of perfection where everyone is happy, or equal, or whatever idea or collection of ideas is deemed to be the most important and the most lacking in the present moment.
 
-  
 The main assumption arising from this is the pernicious notion is that &#8216;the end justifies the means&#8217;- or put more prosaically, &#8216;you can&#8217;t make an omelette without breaking eggs&#8217; &#8211; real-world meaning: &#8216;you can&#8217;t make a utopia without breaking heads&#8217;. Current atrocities are excused by the justification that &#8216;it&#8217;ll be worth it in the end&#8217; i.e. when the utopia has come to pass and everyone is happy.
 
 Of course the problem is is that your utopia gets in the way of mine. A &#8216;utopia&#8217; may be partly created, as in Nazi Germany in the 1930s, but when it is seen not to provide the universal happiness promised, this is blamed on conflicting and competing utopias which must be crushed in order for &#8216;our&#8217; utopia to triumph, upon which everyone will accept that &#8216;we were right&#8217; and say sorry for trying to create their flawed utopia in competition to ours.
@@ -48,55 +48,55 @@ So what is the solution to this? Simply realise that no utopia can ever work and
 For a fantastic example of a &#8216;No-More-Utopias&#8217; utopianism, check out the lyrics to John Lennon&#8217;s &#8216;Imagine&#8217;:
 
 Imagine there&#8217;s no heaven
-  
+
 It&#8217;s easy if you try
-  
+
 No hell below us
-  
+
 Above us only sky
-  
+
 Imagine all the people
-  
+
 Living for today&#8230;
 
 Imagine there&#8217;s no countries
-  
+
 It isn&#8217;t hard to do
-  
+
 Nothing to kill or die for
-  
+
 And no religion too
-  
+
 Imagine all the people
-  
+
 Living life in peace&#8230;
 
 You may say I&#8217;m a dreamer
-  
+
 But I&#8217;m not the only one
-  
+
 I hope someday you&#8217;ll join us
-  
+
 And the world will be as one
 
 Imagine no possessions
-  
+
 I wonder if you can
-  
+
 No need for greed or hunger
-  
+
 A brotherhood of man
-  
+
 Imagine all the people
-  
+
 Sharing all the world&#8230;
 
 You may say I&#8217;m a dreamer
-  
+
 But I&#8217;m not the only one
-  
+
 I hope someday you&#8217;ll join us
-  
+
 And the world will live as one&#8217;
 
 The giveaway is &#8216;I hope someday you&#8217;ll join us/ And the world will be as one&#8217;- as in &#8216;join my utopian project so we can create a world without utopias&#8217;. This is as dumb as &#8216;let&#8217;s start a war for peace&#8217; (which as it happens is very often the outcome of utopian projects).
@@ -109,4 +109,4 @@ One could argue that Hitler also spoke with great power and certainly persuaded 
 
 Why are utopias so seductive when a few minutes&#8217; rational thought shows us that they can never work? I&#8217;ll leave that for another time, and leave the last word to John Gray:
 
-&#8220;When utopia takes over power, it leads to a catastrophe”.
+> "When utopia takes over power, it leads to a catastrophe”.

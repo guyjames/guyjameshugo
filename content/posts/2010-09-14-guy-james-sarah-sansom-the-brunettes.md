@@ -15,6 +15,6 @@ tags:
   - music
 
 ---
-[soundcloud]http://soundcloud.com/guy_james/guy-james-sarah-sansom-the-brunettes[/soundcloud]
+[On SoundCloud](http://soundcloud.com/guy_james/guy-james-sarah-sansom-the-brunettes)
 
 Thanks to Sarah for playing piano and cello on this one.

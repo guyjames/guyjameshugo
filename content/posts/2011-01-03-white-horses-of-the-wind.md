@@ -17,4 +17,4 @@ Instruments, production and vocals by Guy James.
 
 Vocals by Jenny and Natalie.
 
-[soundcloud]http://soundcloud.com/guy_james/white-horses-of-the-wind[/soundcloud]
+[On SoundCloud](http://soundcloud.com/guy_james/white-horses-of-the-wind)

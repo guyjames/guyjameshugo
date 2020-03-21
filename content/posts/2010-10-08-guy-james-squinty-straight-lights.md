@@ -15,4 +15,4 @@ tags:
   - music
 
 ---
-[soundcloud]http://soundcloud.com/guy_james/squinty-straight-lights[/soundcloud]
+[On SoundCloud](http://soundcloud.com/guy_james/squinty-straight-lights)

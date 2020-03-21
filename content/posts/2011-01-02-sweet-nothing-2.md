@@ -13,4 +13,4 @@ tags:
   - music
 
 ---
-[soundcloud]http://soundcloud.com/guy_james/sweet-nothing[/soundcloud]
+[On SoundCloud](http://soundcloud.com/guy_james/sweet-nothing)

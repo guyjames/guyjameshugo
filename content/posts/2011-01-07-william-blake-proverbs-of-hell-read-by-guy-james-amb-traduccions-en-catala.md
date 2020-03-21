@@ -14,6 +14,6 @@ tags:
   - videos
 
 ---
-[YouTube &#8211; William Blake: &#8216;Proverbs of Hell&#8217; Read by Guy James (amb traduccions en Català)][1].
+William Blake: &#8216;Proverbs of Hell&#8217; Read by Guy James (amb traduccions en Català)
 
- [1]: http://www.youtube.com/watch?v=Y5AaXR3U89w
+ {{< youtube Y5AaXR3U89w >}}

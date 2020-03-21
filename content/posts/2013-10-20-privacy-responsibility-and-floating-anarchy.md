@@ -5,9 +5,9 @@ type: post
 date: 2013-10-20T19:50:14+00:00
 excerpt: |
   Tigre-de-bengala' If national life becomes so perfect as to become self-regulated, no representation become necessary. There is then a state of enlightened anarchy. In such a state everyone is his own ruler. He rules himself in such a manner that he is never a hindrance to his neighbour. In the ideal State, therefore, there is no political power because there is no State.' - Gandhi
-  
+
   'Anarchy is not misrule but no rule' - Floating Anarchy Manifesto, Daevid Allen
-  
+
   Following on from my previous post, 'Big Brother is the Reincarnation of God', I have been considering how we give up our power to our god-surrogate, whether that be in the form of governments, corporations, or indeed organised religions.
 url: /2013/10/20/privacy-responsibility-and-floating-anarchy/
 featured_image: /wp-content/uploads/2013/10/anarchie-flottante.jpg
@@ -25,11 +25,14 @@ tags:
   - snowden
 
 ---
-[<img class="size-medium wp-image-3202 alignleft" alt="Tigre-de-bengala" src="https://2018.guyjames.com/wp-content/uploads/2013/10/tigredebengala-300x198.jpg" width="300" height="198" srcset="https://2018.guyjames.com/wp-content/uploads/2013/10/tigredebengala-300x198.jpg 300w, https://2018.guyjames.com/wp-content/uploads/2013/10/tigredebengala.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]&#8216; If national life becomes so perfect as to become self-regulated, no representation become necessary. There is then a state of enlightened anarchy. In such a state everyone is his own ruler. He rules himself in such a manner that he is never a hindrance to his neighbour. In the ideal State, therefore, there is no political power because there is no State.&#8217; &#8211; Gandhi
 
-&#8216;Anarchy is not misrule but no rule&#8217; &#8211; Floating Anarchy Manifesto, Daevid Allen
+{{< figure src="https://2018.guyjames.com/wp-content/uploads/2013/10/tigredebengala-300x198.jpg" alt="Tigre-de-bengala" >}}
 
-Following on from my previous post, &#8216;[Big Brother is the Reincarnation of God][2]&#8216;, I have been considering how we give up our power to our god-surrogate, whether that be in the form of governments, corporations, or indeed organised religions.
+**If national life becomes so perfect as to become self-regulated, no representation become necessary. There is then a state of enlightened anarchy. In such a state everyone is his own ruler. He rules himself in such a manner that he is never a hindrance to his neighbour. In the ideal State, therefore, there is no political power because there is no State.&#8217;** &#8211; Gandhi
+
+&#8216;**Anarchy is not misrule but no rule&#8217;** &#8211; Floating Anarchy Manifesto, Daevid Allen
+
+Following on from my previous post, &#8216;[Big Brother is the Reincarnation of God]( {{< ref "2013-08-03-big-brother-is-the-reincarnation-of-god.md" >}} ), I have been considering how we give up our power to our god-surrogate, whether that be in the form of governments, corporations, or indeed organised religions.
 
 Of course one of the main ways in which we surrender ourselves to the &#8216;Man Upstairs&#8217; is through opting for convenience over our own long term benefit. I remember when Google first launched the GMail service, and certain troublemakers pointed out that the Big G would have to analyse all our private emails in order to supply us with targeted advertising. I considered these warnings for a few minutes, to be sure, but then remembering the Google motto of &#8216;Don&#8217;t Be Evil&#8217;, and their perceived track record of generally being pretty good around privacy issues, I chose, as apparently a vast majority did, to ignore the potential dangers and focus on the features of this new email service. And I have to say, that GMail _is_ a great email service, and certainly pushed the whole notion of how to provide email up a level, introducing many innovations which have since been copied by other providers (even Microsoft eventually caught on, after a few years).
 
@@ -38,8 +41,8 @@ But with the Snowden revelations, and those of other whistleblowers, we realise 
 <span class="pullquote">We are at a crossroads where we have to decide if we are always going to chose the most convenient option offered to us, or if we are going to step up and take back our power.</span> In the Venn diagram of _Convenience vs Personal Power_ there is apparently only a small intersection between these two forces competing for our attention &#8211; one is endlessly blared at us from the Masters of our Universe in the outer world, the other comes as a persistent whisper from within.
 
 Now we are called on to wade into the deep waters called &#8216;Responsibility&#8217; &#8211; a swampy region which has been out of bounds for most people since the 1950s as anything to be taken seriously&#8230; please let me explain&#8230;
-  
-[<img class="alignright size-medium wp-image-3200" alt="Photo by Nosha on Flickr, CC Licence" src="https://2018.guyjames.com/wp-content/uploads/2013/10/2466860959_392732e61b_z-300x214.jpg" width="300" height="214" srcset="https://2018.guyjames.com/wp-content/uploads/2013/10/2466860959_392732e61b_z-300x214.jpg 300w, https://2018.guyjames.com/wp-content/uploads/2013/10/2466860959_392732e61b_z.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />][3]
+
+{{< figure src="https://2018.guyjames.com/wp-content/uploads/2013/10/2466860959_392732e61b_z-300x214.jpg" alt="Photo by Nosha on Flickr, CC Licence" >}}
 
 The beatniks and hippies in the industrial West saw the concept of Responsibility for what it had become: a semantic illusion whereby the needs of the Church, Corporation or State were made out to be equal to our own inner prompting, our own personal sense of Doing The Right Thing. As the encroaching radios and televisions started to drown out our own inner voice, we were told what it was to Do The Right Thing &#8211; consume this, &#8216;support the troops&#8217;, reject the Other (they might be a Communist, out to destroy our &#8216;Freedom&#8217;!), and many people unwittingly bought into this &#8211; because it was convenient to just be told what to think rather than having to exercise their own brains.
 
@@ -81,36 +84,35 @@ Of course taking responsibility includes helping others, even those who might be
 
 <span class="pullquote">The truly free person surely looks on those suffering under the yoke of addiction with compassion, whether it be addiction to heroin, nicotine, religious dogma, or the crap they churn out on Fox News.</span> Everyone is surely doing the best they can, even if that &#8216;best&#8217; does not match up to how other people chose to define it.
 
-So what would a society look like where each individual took Responsibility for themselves? A vision I like is &#8216;Floating Anarchy&#8217;, originally propagated by the original hippy punk band, Planet Gong, &#8216;led&#8217; (in a non-hierarchical sense of course) by Daevid Allen. [<img class="alignleft size-medium wp-image-3193" alt="anarchie-flottante" src="https://2018.guyjames.com/wp-content/uploads/2013/10/anarchie-flottante-295x300.jpg" width="295" height="300" srcset="https://2018.guyjames.com/wp-content/uploads/2013/10/anarchie-flottante-295x300.jpg 295w, https://2018.guyjames.com/wp-content/uploads/2013/10/anarchie-flottante.jpg 707w" sizes="(max-width: 295px) 100vw, 295px" />][4] As I understand it, this means everyone taking Responsibility for their own actions, precluding the need for governments, laws or police. The &#8216;Floating&#8217; part would be underlining the non-violent and spiritual slant on Anarchy, as opposed to the version commonly presented in mainstream culture where Anarchy is assumed to be synonymous with chaos and violence. Of course, the media have an agenda to promote and any kind of realistic examination of what &#8216;anarchy&#8217; means might jeopardise that.
+So what would a society look like where each individual took Responsibility for themselves? A vision I like is &#8216;Floating Anarchy&#8217;, originally propagated by the original hippy punk band, Planet Gong, &#8216;led&#8217; (in a non-hierarchical sense of course) by Daevid Allen.
 
-&#8216;Here and Now Is Floating Anarchy
-  
+ {{< figure src="https://2018.guyjames.com/wp-content/uploads/2013/10/anarchie-flottante-295x300.jpg" alt="anarchie-flottante" >}}
+
+ As I understand it, this means everyone taking Responsibility for their own actions, precluding the need for governments, laws or police. The &#8216;Floating&#8217; part would be underlining the non-violent and spiritual slant on Anarchy, as opposed to the version commonly presented in mainstream culture where Anarchy is assumed to be synonymous with chaos and violence. Of course, the media have an agenda to promote and any kind of realistic examination of what &#8216;anarchy&#8217; means might jeopardise that.
+
+> &#8216;Here and Now Is Floating Anarchy
 NOW you know the only way to be
-  
 Turn your head up to the morning Sun yeah
-  
 And your life will just have begun
-  
-You know that violence is caused by governments
-  
 Armies, police force&#8230;.&#8217;
+You know that violence is caused by governments
 
 So everyone acts in harmony with The Moment, with their own deepest motivation, which is assumed to be in accord with the Will of the Universe, which is of course nothing other than our own deepest Will. It is really a question of living in a frequency of consciousness above that of Reason; in the state of Reason, rules have to be made, recorded and written down. These rules assume the future will be like the past, or they would not work. Of course they do work for a while, in most cases, although never in all cases, gradually becoming obsolete, unjust and tyrannical, then are replaced by new rules. There is a kind of entropy to this though, as laws are made much more easily than they are repealed and eventually we find ourselves tied up in the detritus of old laws, bound by our past good intentions into a State of total inertia. This entropy is reaching an endgame in several areas of life, I believe, especially where taxation and copyright are concerned.
 
 With Floating Anarchy, the moment to moment understanding of what is right sustains all, is understood by all, and is lived by all. How do we know we are living in this state? We are free from unhappiness. If we become emotional or unhappy then we know we have left this state, have left the moment and have gone into a slower world of cause and effect, blame and gain. Barry Long has spoken about this state at length, especially in his &#8216;[Only Fear Dies: A Book of Liberation][5]<img class="tvatxxykixppktbfqtjc gwvrybxjtalumhoqsemr" style="border: none !important; margin: 0px !important;" alt="" src="http://ir-uk.amazon-adsystem.com/e/ir?t=guyjam-21&l=as2&o=2&a=0950805076" width="1" height="1" border="0" />&#8216; &#8211; what it means to take responsibility for our actions as individuals, and as how one acts while knowing oneself as not separate from the Whole:
 
 > AT THE BEGINNING
-  
+
 > At the beginning of time the individual man or woman was the ruling authority on earth. There was no emotion in this authority: no past, no likes and dislikes, no unhappiness, no self-interest. Each individual was responsible for himself or herself in a way that is unimaginable today.
-  
+
 > There was no concept of the masses. There was no notion of what would be good or not good for others, society and the world or even for oneself. There was only one good.
-> 
+>
 > No good is seen in the future.
-> 
+>
 > The good, the only good, was seen, realised or known now, in the individual. And it was known by the absence of unhappiness in himself or herself. So it was not &#8216;a good&#8217; as we think of good today. It could not be given to another or shared with someone who did not have it. That would have been to create another or secondary &#8216;good&#8217;, a notional (not-existent-now) good.
-  
+
 > Everyone was responsible for their own good. It was an utterly individual and just authority. One simply took responsibility now for the good &#8211; the absence of unhappiness in oneself. And all that followed was naturally right or good.
-  
+
 > As anyone or everyone could do it, and did it, no excuse existed for not doing it. Consequently, notions of mass good, social or family good, or even of social equality, had no meaning. If all are equal in the timeless good within, all are equal in the unfoldment in time of the good without. What happens is then right, and known to be right, leaving no place for doubt or unhappiness.
 
 I believe this is as good a definition of Floating Anarchy as we are going to get.
@@ -121,10 +123,4 @@ Another facet of the question &#8216;Is this an impossibly utopian state of affa
 
 What happens though if we don&#8217;t avoid it? What happens if we grasp Responsibility with both hands &#8211; and in doing so realise that what seemed to be its persistent, nagging whisper is but the first sparks crackling of a fire which will eventually become a furnace burning our old  lives away, compromised and enslaved as they were &#8211; and creating the space we need to grow into, as truly free beings.
 
-&nbsp;
-
- [1]: https://2018.guyjames.com/wp-content/uploads/2013/10/tigredebengala.jpg
- [2]: https://2018.guyjames.com/big-brother-is-the-reincarnation-of-god/ "Big Brother is the Reincarnation of God"
- [3]: https://2018.guyjames.com/wp-content/uploads/2013/10/2466860959_392732e61b_z.jpg
- [4]: https://2018.guyjames.com/wp-content/uploads/2013/10/anarchie-flottante.jpg
  [5]: http://www.amazon.co.uk/gp/product/0950805076/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0950805076&linkCode=as2&tag=guyjam-21

@@ -18,4 +18,4 @@ tags:
 ---
 The psychedelic and shamanic origins of Christmas.
 
-<iframe title="Why Do Santa&#039;s Reindeer Fly?" width="640" height="480" src="https://www.youtube.com/embed/cG3UPsC90so?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube cG3UPsC90so >}}
