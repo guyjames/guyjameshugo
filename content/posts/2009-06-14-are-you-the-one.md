@@ -18,7 +18,7 @@ So that&#8217;s nice for them for the time being. But what happens if &#8216;the
   
 <a title="Haley and Michael" href="http://www.flickr.com/photos/8222174@N05/1794707997/" target="_blank"><img alt="Haley and Michael" src="http://farm3.static.flickr.com/2027/1794707997_29259a1d47_m.jpg" border="0" /></a>
   
-<small><a title="Attribution-NonCommercial-NoDerivs License" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank"><img alt="Creative Commons License" src="http://guyjames.test/wp-content/plugins/photo-dropper/images/cc.png" width="16" height="16" align="absmiddle" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a title="www.LizzieVPhotography.com" href="http://www.flickr.com/photos/8222174@N05/1794707997/" target="_blank">www.LizzieVPhotography.com</a></small>
+<small><a title="Attribution-NonCommercial-NoDerivs License" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank"><img alt="Creative Commons License" src="https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png" width="16" height="16" align="absmiddle" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a title="www.LizzieVPhotography.com" href="http://www.flickr.com/photos/8222174@N05/1794707997/" target="_blank">www.LizzieVPhotography.com</a></small>
   
 <!--more-->
 

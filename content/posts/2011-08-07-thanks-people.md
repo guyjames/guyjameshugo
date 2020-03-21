@@ -23,5 +23,5 @@ Also I do make music &#8211; [see here][2] &#8211; don&#8217;t be scared, people
 
 So, thanks again and if you read this, feel free to leave me a comment, constructive criticism is ok, or just say &#8216;hi&#8217;. I do this stuff to create connections, to let my brainwaves expand into the electronic ether in some small way. If there is an echo from the void, so much the better, if not, I will carry on anyway and the best of luck to all who sail in her.
 
- [1]: http://guyjames.test/category/thoughts/
- [2]: http://guyjames.test/category/my-music/ "Guy James Music"
+ [1]: https://2018.guyjames.com/category/thoughts/
+ [2]: https://2018.guyjames.com/category/my-music/ "Guy James Music"

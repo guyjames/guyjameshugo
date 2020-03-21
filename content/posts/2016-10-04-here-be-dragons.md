@@ -127,7 +127,7 @@ Is this prescription, this Manifesto, too vague? Too general, too head-in-the-cl
 
 <b id="f3">3</b> <small><a href="http://hyperallergic.com/313435/an-illustrated-guide-to-guy-debords-the-society-of-the-spectacle/">An Illustrated Guide to Guy Debord’s ‘The Society of the Spectacle’</a> </small>[↩][5]
 
- [1]: http://guyjames.test/wp-content/uploads/2016/10/here_be_dragons.jpg
+ [1]: https://2018.guyjames.com/wp-content/uploads/2016/10/here_be_dragons.jpg
  [2]: https://web.archive.org/web/20180131030549/https://www.presencing.com/theoryu
  [3]: #a1
  [4]: #a2

@@ -32,7 +32,7 @@ tags:
 
 _ _<figure id="attachment_3332" aria-describedby="caption-attachment-3332" style="width: 184px" class="wp-caption alignleft">
 
-[<img class="size-medium wp-image-3332" src="http://guyjames.test/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg" alt="Are you there NSA? Taken from Boing Boing" width="184" height="300" srcset="http://guyjames.test/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg 184w, http://guyjames.test/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg 589w" sizes="(max-width: 184px) 100vw, 184px" />][1]<figcaption id="caption-attachment-3332" class="wp-caption-text">Taken from Boing Boing</figcaption></figure> 
+[<img class="size-medium wp-image-3332" src="https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg" alt="Are you there NSA? Taken from Boing Boing" width="184" height="300" srcset="https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg 184w, https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg 589w" sizes="(max-width: 184px) 100vw, 184px" />][1]<figcaption id="caption-attachment-3332" class="wp-caption-text">Taken from Boing Boing</figcaption></figure> 
 
 Ok here we go&#8230; I had a dream last night – I was in a large, old-fashioned wood-panelled library; on the wall was a painting of a mischievous looking wizard – in appearance something like a cross between Alan Watts and Gandalf as played by Sir Ian McKellen. He was winking.  The painting was somehow alive, and I realised that he was watching me – I ducked under the large wooden table which occupied the centre of the room (not unlike the table in Da Vinci&#8217;s painting of The Last Supper) and his eyes followed me down there. On waking, I realised that this paternal figure represented God and his omniscience – he knows everything we do, he is watching all the time, he knows when we’ve been bad or good, so be good for goodness’ sake (or was that a different conditionally-loving Father-figure?).
 
@@ -44,7 +44,7 @@ The implications of this, if taken fully to heart, can be summed up in one word:
 
 So into the void of no-gods has stepped the modern technological secular state – in its unholy marriage with large corporations it is not (yet) omnipotent, but seems to regard itself as such to all intents and purposes, and it is certainly now taking king-sized steps towards omniscience – it is watching us all the time, as made overtly clear by the infamous, almost a parody of itself, GW Bush era logo of the **Information Awareness Office** project (presumably made secret and renamed PRISM after an unexpected public backlash into the idea of all communications being intercepted by the government):
 
-[<img class="alignnone size-full wp-image-3060" src="http://guyjames.test/wp-content/uploads/2013/06/270px-IAO-logo.png" alt="Information Awareness Office IAO" width="270" height="275" />][2]
+[<img class="alignnone size-full wp-image-3060" src="https://2018.guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png" alt="Information Awareness Office IAO" width="270" height="275" />][2]
 
 I don’t want to go too far down the occult conspiracy theory rabbithole but as a sidenote ‘IAO’ was the name for a Crowleyan magickal formula for contacting one’s Holy Guardian Angel – without the obviously occultist logo I would have just dismissed that as a coincidence, but with it, there is ample backup for believing that this worldwide surveillance project was consciously intended as a kind of god-replacement. The slogan, _Scientia est Potentia_ (Knowledge is Power) seems to add further weight to this – when we have the knowledge of Everything, we will be All Powerful. The eye in the pyramid is, in Masonic mythology, of course supposed to be that of the Architect of the Universe, i.e. God. The traditional geometrical shape for a PRISM is triangular (pyramid).
 
@@ -124,5 +124,5 @@ So&#8230; we feel lost and alone in the universe with no handed-down rules set i
   </p>
 </div>
 
- [1]: http://guyjames.test/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg
- [2]: http://guyjames.test/wp-content/uploads/2013/06/270px-IAO-logo.png
+ [1]: https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg
+ [2]: https://2018.guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png

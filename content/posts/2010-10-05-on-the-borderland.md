@@ -20,7 +20,7 @@ tags:
 
 ---
 <p style="text-align: center;">
-  <img src="http://guyjames.test/wp-content/uploads/tumblr_l9n44e4Fxp1qzfoxxo1_500.jpg" alt='' />
+  <img src="https://2018.guyjames.com/wp-content/uploads/tumblr_l9n44e4Fxp1qzfoxxo1_500.jpg" alt='' />
 </p>
 
 Who is the third who walks always beside you?
