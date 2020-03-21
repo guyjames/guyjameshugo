@@ -18,9 +18,9 @@ _Alan Watts_
 
 I&#8217;ve always thought that Richard Dawkins and his followers have an evangelical air about them, confirmed by the &#8216;Atheist Ad Campaign&#8217;:
 
-<a title="Atheist bus stop advert mockup, final." href="http://www.flickr.com/photos/54829881@N00/2969104386/" target="_blank" rel="noopener noreferrer"><img alt="Atheist bus stop advert mockup, final." src="http://farm4.static.flickr.com/3217/2969104386_1e473252aa_m.jpg" border="0" /></a>
+<a title="Atheist bus stop advert mockup, final." href="https://www.flickr.com/photos/54829881@N00/2969104386/" target="_blank" rel="noopener noreferrer"><img alt="Atheist bus stop advert mockup, final." src="http://farm4.static.flickr.com/3217/2969104386_1e473252aa_m.jpg" border="0" /></a>
   
-<small><a title="Attribution-NonCommercial-NoDerivs License" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer"><img alt="Creative Commons License" src="https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png" width="16" height="16" align="absmiddle" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank" rel="noopener noreferrer">photo</a> credit: <a title="cbit" href="http://www.flickr.com/photos/54829881@N00/2969104386/" target="_blank" rel="noopener noreferrer">cbit</a></small>
+<small><a title="Attribution-NonCommercial-NoDerivs License" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer"><img alt="Creative Commons License" src="https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png" width="16" height="16" align="absmiddle" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank" rel="noopener noreferrer">photo</a> credit: <a title="cbit" href="https://www.flickr.com/photos/54829881@N00/2969104386/" target="_blank" rel="noopener noreferrer">cbit</a></small>
 
 <!--more-->
 

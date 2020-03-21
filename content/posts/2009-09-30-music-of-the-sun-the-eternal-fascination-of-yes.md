@@ -21,7 +21,7 @@ Prog rock. Progressive Rock. Filthy, hated, heretical noise, utterly shunned sin
 Those who lump dazzling avatars of God&#8217;s Own Progression like Yes, Genesis (the early version, naturally) and King Crimson in with lumpen regurgitators of egoistic bombast like Emerson Lake and Palmer are merely demonstrating their own cloth-ears. Where ELP sound totally of their time, Yes in particular are still in the fantastic future world they created for themselves.
 
 
-{{< figure src="http://www.flickr.com/photos/27164277@N00/2386851096" alt="2008APR041418" >}}
+{{< figure src="https://www.flickr.com/photos/27164277@N00/2386851096" alt="2008APR041418" >}}
 
 I remember the first time I heard Yes, the actual location is irrelevant because as soon as I heard them (it was the opening of _The Gates of Delerium_ from &#8216;Relayer&#8217;), I was totally transported into a parallel universe where the rules of what &#8216;rock&#8217; was supposed to be had not been ripped up, they had never existed in the first place. Anything went and the more out there the better. It seemed like all the musicians were playing solos at once, to different songs, YET it worked. Of course the more I heard it, the more it became evident that they were not just wildly improvising, there was a coherent plan behind it, which is why it worked.  <span class="pullquote">People call prog &#8216;impenetrable&#8217; but it is, at its best, profoundly penetrable, it&#8217;s just that they don&#8217;t have the patience to listen to it four or five times in order to work out what the hell is going on.</span>
 
@@ -49,7 +49,7 @@ In a way, and despite these stories and many more, Yes is one of the most ego-le
 
 Total rubbish, right? Well to my ears, when these words are sung they take on a poetry which would be unimaginable to someone merely reading them. Anderson just slings a few words together and lets the music and your imagination fill in the gaps. And one finds oneself in the &#8216;Yes-world&#8217; of the Roger Dean paintings and beyond. It&#8217;s like he is just reminding you of this other world as if you lived there long ago (or will live there in a distant future) and it&#8217;s unnecessary to spell out every detail.  <span class="pullquote">Yes never insulted your intelligence, at least not on the &#8216;great&#8217; albums</span> (I&#8217;ll leave it up to the reader to decide which those are).
 
-{{< figure src="http://www.flickr.com/photos/85473133@N00/3882881237/" alt="YesRelayerTourBook12b" >}}
+{{< figure src="https://www.flickr.com/photos/85473133@N00/3882881237/" alt="YesRelayerTourBook12b" >}}
 
 Another great thing about Yes is how un-ironic they were; even though they included (on and off) two of the driest wits in the music biz in Bill Bruford and Rick Wakeman. They just totally went for it, unashamed and naked in their innocent pursuit of musical greatness. No wonder the punks hated them&#8230; I have nothing against punk in fact but not only did it throw out the baby with the bath water, it went round throwing out many babies who were never even near the soapy stuff. Seeing old footage of Keith Emerson now, I am retrospectively cheering on Johnny and Sid and the other self-appointed idiots in a &#8216;down with this sort of thing&#8217; way. But to think that Yes were hated as part of the same scene&#8230; I don&#8217;t know. Maybe they had to go as well otherwise the whole punk project would&#8217;ve been in vain (even though they carried on thriving commercially, their credibility was dead after punk).
 

@@ -14,4 +14,4 @@ categories:
 
 William Blake, from &#8216;_The Marriage of Heaven and Hell_&#8216;
 
-{{< figure src="http://www.flickr.com/photos/16230215@N08/2664817195/" alt="Tree of Life, credit: h.koppdelaney" >}}
+{{< figure src="https://www.flickr.com/photos/16230215@N08/2664817195/" alt="Tree of Life, credit: h.koppdelaney" >}}

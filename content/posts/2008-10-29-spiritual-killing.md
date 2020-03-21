@@ -16,4 +16,4 @@ categories:
 
 Matsuo Basho
 
-{{< figure src="http://www.flickr.com/photos/77251992@N00/294485761/" alt="Autunno - L'essenza." >}}
+{{< figure src="https://www.flickr.com/photos/77251992@N00/294485761/" alt="Autunno - L'essenza." >}}
