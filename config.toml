@@ -2,7 +2,8 @@ baseURL = "https://hugo.guyjames.com/"
 title = "Guy James"
 copyright = "Copyright © 2020, Guy James"
 languageCode = "en-GB"
-theme = "indigo"
+theme = "zen"
+#theme = "indigo"
 #theme = "ananke"
 
 [params]
