@@ -7,8 +7,8 @@ theme = "indigo"
 
 [params]
   Author = "Guy James"
-  Description = "Idle speculations you are doing well to ignore."
-  Subtitle = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music."
+  Description = "Just another refugee from normality."
+  Subtitle = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore."
   Avatar = "images/site-logo.png"
   Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
   ShowBio = true
@@ -33,7 +33,7 @@ theme = "indigo"
 
   # These are parameters used for indieweb identity. You should set these along
   # with the above email/social network parameters.
-  [params.indieWeb]  
+  [params.indieWeb]
     EmailAddress = "info@guyjames.com"
 #    FlickrUser = "FlickrUserName"
     GitHubUser = "guyjames"
