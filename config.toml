@@ -1,5 +1,5 @@
 baseURL = "https://hugo.guyjames.com/"
-title = "Guy James - Idle speculations you are doing well to ignore."
+title = "Guy James"
 copyright = "Copyright ©2020, Guy James"
 languageCode = "en-GB"
 theme = "hugo-theme-cleanwhite"
