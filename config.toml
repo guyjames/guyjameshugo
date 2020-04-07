@@ -1,37 +1,67 @@
 baseURL = "https://hugo.guyjames.com/"
 title = "Guy James"
-copyright = "Copyright © 2020, Guy James"
+copyright = "Copyright ©2020, Guy James"
 languageCode = "en-GB"
 theme = "hugo-theme-cleanwhite"
 #theme = "zen"
 #theme = "indigo"
 #theme = "ananke"
+paginate = 10 #frontpage pagination
+
+[outputs]
+home = ["HTML", "RSS"]
 
 [params]
+  header_image = "/img/home-bg-jeep.jpg"
   Author = "Guy James"
-  Description = "Just another refugee from normality."
-  Subtitle = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore."
+  slogan = "Just another refugee from normality."
+  description = "Ruminations on GameB, P2P, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore."
   Avatar = "images/site-logo.png"
   Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
   ShowBio = true
   PermalinkText = "🔗"
   mainSections = ["post"]
 
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Sorry, that page got lost in the post."
+  omit_categories = true
+
+  # Sidebar settings
+  sidebar_about_description = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true
+  featured_condition_size = 1
+
+  friends = true
+  bookmarks = false
+  about_me = true
+
+[params.social]
   # Contact/social-network identifiers for social icons
-  EmailAddress = "info@guyjames.com"
-  FacebookUser = "guyjamesstaniforth"
+  rss            = true
+  email = "info@guyjames.com"
+  facebook = "https://facebook.com/guyjamesstaniforth"
 #  FlickrUser = "FlickrUserName"
-  GitHubUser = "guyjames"
+  github = "https://github.com/guyjames"
 #  GitLabUser = "GitLabUserName"
 #  GlitchUser = "GlitchUserName"
-  KeybaseUser = "guyjames"
+  keybase = "guyjames"
 #  LinkedInUser = "LinkedInUserName"
 #  MediumUser = "MediumUserName"
 #  MicroBlogUser = "MicroBlogUserName"
 #  RedditUser = "RedditUserName"
 #  StackOverflowUser = "StackOverflowUserName"
 #  TumblrUser = "TumblrUserName"
-  TwitterUser = "guyjames23"
+  twitter = "guyjames23"
+
+  [[params.addtional_menus]]
+  title =  "MUSIC"
+  href =  "/top/music/"
+  [[params.addtional_menus]]
+  title =  "CONTACT"
+  href =  "/top/contact/"
 
   # These are parameters used for indieweb identity. You should set these along
   # with the above email/social network parameters.
@@ -43,6 +73,13 @@ theme = "hugo-theme-cleanwhite"
 #    MicroBlogUser = "MicroBlogUserName"
     Country = "Spain"
     City = "Beget"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
 
   [params.endpoints]
     Auth = "https://indieauth.com/auth"
