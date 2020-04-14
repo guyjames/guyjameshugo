@@ -17,7 +17,8 @@ home = ["HTML", "RSS"]
   slogan = "Just another refugee from normality."
   description = "Ruminations on GameB, P2P, collapse, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore."
   Avatar = "images/site-logo.png"
-  Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
+  Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician.
+               Lives in a log cabin in the forest. Posts in English and Spanish."
   ShowBio = true
   PermalinkText = "🔗"
   mainSections = ["post"]
@@ -25,13 +26,14 @@ home = ["HTML", "RSS"]
   image_404 = "img/404-bg.jpg"
   title_404 = "Sorry, that page got lost in the post."
   omit_categories = true
+  omit_tags = true
 
   # Sidebar settings
   sidebar_about_description = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true
+  featured_tags = false
   featured_condition_size = 1
 
   friends = true
@@ -56,6 +58,9 @@ home = ["HTML", "RSS"]
 #  TumblrUser = "TumblrUserName"
   twitter = "guyjames23"
 
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
   [[params.addtional_menus]]
   title =  "MUSIC"
   href =  "/top/music/"
