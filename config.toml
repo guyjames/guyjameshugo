@@ -17,8 +17,7 @@ home = ["HTML", "RSS"]
   slogan = "Just another refugee from normality."
   description = "Ruminations on GameB, P2P, collapse, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore."
   Avatar = "images/site-logo.png"
-  Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician.
-               Lives in a log cabin in the forest. Posts in English and Spanish."
+  Biography = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
   ShowBio = true
   PermalinkText = "🔗"
   mainSections = ["post"]
@@ -30,13 +29,12 @@ home = ["HTML", "RSS"]
 
   # Sidebar settings
   sidebar_about_description = "Has worked with @FairCoop, @CoopIntegral, @P2PFoundation, @Ecoxarxagrtx. Writer, musician. Lives in a log cabin in the forest. Posts in English and Spanish."
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/guyjames.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false
   featured_condition_size = 1
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -49,14 +47,14 @@ home = ["HTML", "RSS"]
   github = "https://github.com/guyjames"
 #  GitLabUser = "GitLabUserName"
 #  GlitchUser = "GlitchUserName"
-  keybase = "guyjames"
+#  keybase = "guyjames"
 #  LinkedInUser = "LinkedInUserName"
 #  MediumUser = "MediumUserName"
 #  MicroBlogUser = "MicroBlogUserName"
 #  RedditUser = "RedditUserName"
 #  StackOverflowUser = "StackOverflowUserName"
 #  TumblrUser = "TumblrUserName"
-  twitter = "guyjames23"
+  twitter = "https://twitter.com/guyjames23"
 
   [[params.addtional_menus]]
   title =  "ABOUT"
