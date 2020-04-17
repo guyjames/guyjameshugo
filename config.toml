@@ -35,7 +35,7 @@ home = ["HTML", "RSS"]
   featured_condition_size = 1
 
   friends = false
-  bookmarks = false
+  bookmarks = true
   about_me = true
 
 [params.social]
